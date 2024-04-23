@@ -1,7 +1,7 @@
 contacts:
-  message: "Bem-vindo! Somos a API Rest, Micro_Empresas no ambiente de QA - GitHub."
+  message: "Bem-vindo! Somos a API Rest, Micro_Empresas no ambiente de QA - Configurações no GitHub."
   contactDetails:
-    name: "Kent Beck - QA Lead"
+    name: "Kent Beck - Quality Assurance QA Lead"
     email: "beck@teste.com"
   onCallSupport:
     - (11) 9999-1111
