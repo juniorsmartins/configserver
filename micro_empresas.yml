@@ -1,7 +1,7 @@
 contacts:
-  message: "Bem-vindo! Somos a API Rest, Micro_Empresas no ambiente de Desenvolvimento - GitHub."
+  message: "Bem-vindo! Somos a API Rest, Micro_Empresas no ambiente de Desenvolvimento - Configurações no GitHub."
   contactDetails:
-    name: "Junior Martins - Developer"
+    name: "Junior Martins - Developer Dev"
     email: "teste@teste.com"
   onCallSupport:
     - (11) 9999-2222
