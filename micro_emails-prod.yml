@@ -1,4 +1,4 @@
-customers:
+emails:
   message: "Olá, API Rest, Micro_Emails no ambiente de Produção. Com applications no GitHub e alerta de push automático com WebHook."
   contactDetails:
     name: "Martin Fowler - Product Owner PO"
