@@ -1,7 +1,7 @@
 contacts:
   message: "Olá, Mundo! API Rest, Micro_Empresas no ambiente de Desenvolvimento. Com applications no GitHub e utilizando WebHook da Hookdeck."
   contactDetails:
-    name: "Junior Martins - Developer Dev"
+    name: "Junior Martins - Developer (Dev)"
     email: "teste@teste.com"
   onCallSupport:
     - (11) 9999-4444
