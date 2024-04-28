@@ -1,4 +1,4 @@
-customers:
+emails:
   message: "Olá, Mundo! API Rest, Micro_Emails no ambiente de Desenvolvimento. Com applications no GitHub e utilizando WebHook da Hookdeck. "
   contactDetails:
     name: "Junior Martins - Developer (Dev)"
