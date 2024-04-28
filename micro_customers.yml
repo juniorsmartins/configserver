@@ -1,5 +1,5 @@
 customers:
-  message: "Olá, Mundo! API Rest, Micro_Customers no ambiente de Desenvolvimento - Configuração no GitHub - Com WebHook. "
+  message: "Olá, Mundo! API Rest, Micro_Customers no ambiente de Desenvolvimento. Com applications no GitHub e utilizando WebHook da Hookdeck. "
   contactDetails:
     name: "Junior Martins - Developer Dev"
     email: "{cipher}48bd94974644a2dd2fdb10a5c1cfa4220c779f419f4f1b7446b2199e472a33e4"
