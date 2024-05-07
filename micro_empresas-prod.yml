@@ -1,5 +1,5 @@
 contacts:
-  message: "Olá, API Rest, Micro_Empresas no ambiente de Produção. Com applications no GitHub e alerta de push automático com WebHook."
+  message: "Olá, Hello World! API Rest, Micro_Empresas no ambiente de Produção. Com applications no GitHub e alerta de push automático com WebHook."
   contactDetails:
     name: "Martin Fowler - Product Owner PO Lead"
     email: "fowler@teste.com"
