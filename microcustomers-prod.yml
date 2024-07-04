@@ -1,9 +1,0 @@
-customers:
-  message: "Ambiente de Produção - Microsserviço, Micro_Customers com applications em repositório no GitHub e com geração de alerta de push automático com WebHook."
-  contactDetails:
-    name: "Martin Fowler - Product Owner PO"
-    email: "{cipher}8f81bbbda6bafee9c0eb3549233171c9af04fb9b863d684058bfc3b1c0083168f262783a832a5b04e48dfdd45a7941e9"
-  onCallSupport:
-    - (11) 9999-0000
-    - (21) 3333-1111
-
