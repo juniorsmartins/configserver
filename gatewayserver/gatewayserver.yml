@@ -1,6 +1,3 @@
-server:
-  port: ${SERVER_PORT:8125}
-
 eureka:
   instance:
     preferIpAddress: true 
